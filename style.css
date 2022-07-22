@@ -1,0 +1,14 @@
+body {
+    min-width: 250px;
+    background-color: #211f1f;
+    color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+.intro {
+    font-size: 1.20rem;
+    line-height: 1.4;
+}
